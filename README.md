@@ -12,7 +12,7 @@ Time spent: **4** hours spent in total
 
 Here's a walkthrough of implemented required features:
 
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://github.com/nmokaria27/Codepath-Web102-Community-Board/blob/main/walkthrough.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/nmokaria27/Codepath-Web102-Community-Board/blob/main/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
